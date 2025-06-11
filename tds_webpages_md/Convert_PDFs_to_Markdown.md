@@ -1,7 +1,7 @@
 ---
 title: "Convert PDFs to Markdown"
-original_url: "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=mistral-ocr-api"
-downloaded_at: "2025-06-04T17:48:44.733688"
+original_url: "https://tds.s-anand.net/#/convert-pdfs-to-markdown?id=markitdown"
+downloaded_at: "2025-06-11T13:01:13.760899"
 ---
 
 [Converting PDFs to Markdown](#/convert-pdfs-to-markdown?id=converting-pdfs-to-markdown)

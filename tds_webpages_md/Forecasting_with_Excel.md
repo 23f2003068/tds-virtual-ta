@@ -1,7 +1,7 @@
 ---
 title: "Forecasting with Excel"
 original_url: "https://tds.s-anand.net/#/forecasting-with-excel?id=forecasting-with-excel"
-downloaded_at: "2025-06-04T17:46:49.909084"
+downloaded_at: "2025-06-11T12:59:19.662976"
 ---
 
 [Forecasting with Excel](#/forecasting-with-excel?id=forecasting-with-excel)

@@ -1,7 +1,7 @@
 ---
 title: "JavaScript tools: npx"
 original_url: "https://tds.s-anand.net/#/npx?id=javascript-tools-npx"
-downloaded_at: "2025-06-04T17:50:48.028405"
+downloaded_at: "2025-06-11T13:02:46.859925"
 ---
 
 [JavaScript tools: npx](#/npx?id=javascript-tools-npx)

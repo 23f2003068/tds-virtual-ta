@@ -1,7 +1,7 @@
 ---
 title: "Transforming Images"
-original_url: "https://tds.s-anand.net/#/transforming-images?id=color-and-enhancement"
-downloaded_at: "2025-06-04T17:50:37.495475"
+original_url: "https://tds.s-anand.net/#/transforming-images?id=basic-image-operations"
+downloaded_at: "2025-06-11T13:01:28.607709"
 ---
 
 [Transforming Images](#/transforming-images?id=transforming-images)

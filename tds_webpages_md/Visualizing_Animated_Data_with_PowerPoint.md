@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Animated Data with PowerPoint"
 original_url: "https://tds.s-anand.net/#/visualizing-animated-data-with-powerpoint?id=visualizing-animated-data-with-powerpoint"
-downloaded_at: "2025-06-04T17:49:44.321308"
+downloaded_at: "2025-06-11T13:00:04.955979"
 ---
 
 [Visualizing Animated Data with PowerPoint](#/visualizing-animated-data-with-powerpoint?id=visualizing-animated-data-with-powerpoint)

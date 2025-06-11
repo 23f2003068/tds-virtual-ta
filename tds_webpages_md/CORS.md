@@ -1,7 +1,7 @@
 ---
 title: "CORS"
 original_url: "https://tds.s-anand.net/#/cors?id=cors-cross-origin-resource-sharing"
-downloaded_at: "2025-06-04T17:49:14.271384"
+downloaded_at: "2025-06-11T12:59:40.471797"
 ---
 
 [CORS: Cross-Origin Resource Sharing](#/cors?id=cors-cross-origin-resource-sharing)

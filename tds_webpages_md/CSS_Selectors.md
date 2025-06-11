@@ -1,7 +1,7 @@
 ---
 title: "CSS Selectors"
 original_url: "https://tds.s-anand.net/#/css-selectors?id=css-selectors"
-downloaded_at: "2025-06-04T17:45:37.358059"
+downloaded_at: "2025-06-11T12:57:11.277434"
 ---
 
 [CSS Selectors](#/css-selectors?id=css-selectors)

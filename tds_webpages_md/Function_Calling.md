@@ -1,7 +1,7 @@
 ---
 title: "Function Calling"
 original_url: "https://tds.s-anand.net/#/function-calling?id=how-to-define-functions"
-downloaded_at: "2025-06-04T17:48:40.355054"
+downloaded_at: "2025-06-11T13:02:00.990297"
 ---
 
 [Function Calling with OpenAI](#/function-calling?id=function-calling-with-openai)

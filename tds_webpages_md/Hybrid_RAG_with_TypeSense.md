@@ -1,7 +1,7 @@
 ---
 title: "Hybrid RAG with TypeSense"
-original_url: "https://tds.s-anand.net/#/hybrid-rag-typesense?id=_4-run-a-hybrid-search-and-answer-a-question"
-downloaded_at: "2025-06-04T17:49:09.914190"
+original_url: "https://tds.s-anand.net/#/hybrid-rag-typesense?id=install-and-run-typesense"
+downloaded_at: "2025-06-11T13:02:28.573327"
 ---
 
 [Hybrid Retrieval Augmented Generation (Hybrid RAG) with TypeSense](#/hybrid-rag-typesense?id=hybrid-retrieval-augmented-generation-hybrid-rag-with-typesense)

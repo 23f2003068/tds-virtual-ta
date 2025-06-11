@@ -1,7 +1,7 @@
 ---
 title: "Extracting Audio and Transcripts"
-original_url: "https://tds.s-anand.net/#/extracting-audio-and-transcripts?id=media-processing-ffmpeg"
-downloaded_at: "2025-06-04T17:50:53.279102"
+original_url: "https://tds.s-anand.net/#/extracting-audio-and-transcripts?id=extracting-audio-and-transcripts"
+downloaded_at: "2025-06-11T12:59:17.299573"
 ---
 
 [Extracting Audio and Transcripts](#/extracting-audio-and-transcripts?id=extracting-audio-and-transcripts)

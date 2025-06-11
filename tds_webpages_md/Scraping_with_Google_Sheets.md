@@ -1,7 +1,7 @@
 ---
 title: "Scraping with Google Sheets"
 original_url: "https://tds.s-anand.net/#/scraping-with-google-sheets?id=scraping-with-google-sheets"
-downloaded_at: "2025-06-04T17:47:54.567105"
+downloaded_at: "2025-06-11T13:01:34.225251"
 ---
 
 [Scraping with Google Sheets](#/scraping-with-google-sheets?id=scraping-with-google-sheets)

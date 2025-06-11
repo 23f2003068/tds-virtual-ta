@@ -1,7 +1,7 @@
 ---
 title: "LLM Video Screen-Scraping"
-original_url: "https://tds.s-anand.net/#/llm-video-screen-scraping?id=quick-start-example"
-downloaded_at: "2025-06-04T17:48:17.868447"
+original_url: "https://tds.s-anand.net/#/llm-video-screen-scraping?id=use-cases"
+downloaded_at: "2025-06-11T13:00:14.416079"
 ---
 
 [LLM Video Screen-Scraping](#/llm-video-screen-scraping?id=llm-video-screen-scraping)

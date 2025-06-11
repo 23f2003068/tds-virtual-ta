@@ -1,7 +1,7 @@
 ---
 title: "Project 1"
-original_url: "https://tds.s-anand.net/#/project-tds-virtual-ta?id=create-an-api"
-downloaded_at: "2025-06-04T17:48:49.151312"
+original_url: "https://tds.s-anand.net/#/project-tds-virtual-ta?id=deploy-your-application"
+downloaded_at: "2025-06-11T13:01:02.365954"
 ---
 
 [Project: TDS Virtual TA](#/project-tds-virtual-ta?id=project-tds-virtual-ta)
@@ -60,6 +60,8 @@ The response must be a JSON object like this:
   ]
 }Copy to clipboardErrorCopied
 ```
+
+The response must be sent within 30 seconds.
 
 [Evaluate your application](#/project-tds-virtual-ta?id=evaluate-your-application)
 ----------------------------------------------------------------------------------

@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 # --- USER CONFIGURATION ---
 BASE_URL = "https://discourse.onlinedegree.iitm.ac.in"
 CATEGORY_URL = "/c/courses/tds-kb/34"
-SESSION_COOKIE = "7X4c6I2D2GZ3iNDOqQv8iB47kG2pEJAAWGpqOtwdvo35zPmcfBKKcPIkPxrgChXrESP1c6EFzTW0yzF7lZB4ZeNi1rqhvwXN8SqNvSI%2Fv5aBxHHu7Yk1fGUjt%2BUi4SYs%2Bs4AFt1h%2FxbVD%2FAZOFzzY9ayFnBAR8QM%2F8cdXmIbnoaXysAzkHqDr8%2FqAAq6dW7QWTRdMgA9mLA%2BIbdLDKgyP3XU5qk1ouquUN15sh86OVg0ldSzuxlES4NREDQpbrAX%2BUOynpy5dTzHOcJ2QkMRkfu1NGtwljE36VA%2FBP5wrWMmHPOr4Jo7KfuWFtbyPE8g--xYF6Nthn66yTUw4c--Zi8TtMEODF%2FPMRx6dIvlfg%3D%3D"  # Replace with your '_t' value
+SESSION_COOKIE = "fAJHpqc5UykXdWjWYGyKa7GZLd%2BYxi%2Bb%2FFp3iWbc0%2FyCC%2BmMo4mrf9uUjtgIlR1fandKWhU4GpjL2q3eK2ZvWKGhuVoHyg%2FxBN%2BA1mi0kFDfpNgyIJd3LgzAhcTcfMtnicQ5bDM0bf1TzQrgTmwa6ye%2Bmdn9dlMekGn%2BbbUoHV3NSbW7zn14BhVk6JtngIQhrEjLVMbEkq3aii984k3qChYTIjkVQRj0lkUVZTycg4df9PWpMs98EokWGg68on5GBToIXHSQ7YQqeYuenWGtk%2FPrE9HEPlrC%2F9zt0u6T6BCJjUNf%2BtW48xSh5fUjBCNA--7eYM2f2RV%2BVbkjNB--8QbkzANoRxMtAtf8FdEQIw%3D%3D"  # Replace with your '_t' value
 OUTPUT_DIR = "tds_pages_json"
 START_DATE = datetime(2025, 1, 1)
 END_DATE = datetime(2025, 4, 14)

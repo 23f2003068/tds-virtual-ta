@@ -1,7 +1,7 @@
 ---
 title: "Spreadsheet: Excel, Google Sheets"
 original_url: "https://tds.s-anand.net/#/spreadsheets?id=spreadsheet-excel-google-sheets"
-downloaded_at: "2025-06-04T17:49:42.204152"
+downloaded_at: "2025-06-11T12:59:38.146980"
 ---
 
 [Spreadsheet: Excel, Google Sheets](#/spreadsheets?id=spreadsheet-excel-google-sheets)

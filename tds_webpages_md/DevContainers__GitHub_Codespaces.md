@@ -1,7 +1,7 @@
 ---
 title: "DevContainers: GitHub Codespaces"
-original_url: "https://tds.s-anand.net/#/github-codespaces?id=features-to-explore"
-downloaded_at: "2025-06-04T17:49:40.078145"
+original_url: "https://tds.s-anand.net/#/github-codespaces?id=quick-setup"
+downloaded_at: "2025-06-11T13:02:42.539216"
 ---
 
 [IDE: GitHub Codespaces](#/github-codespaces?id=ide-github-codespaces)
